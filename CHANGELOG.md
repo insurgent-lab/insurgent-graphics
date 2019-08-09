@@ -8,12 +8,12 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [1.0.0] - xxxx-xx-xx
 ### Added
-- This `CHANGELOG`.
+- A `CHANGELOG` with a track of the version changes.
 - A `README` with a presentation of the main graphics.
 - Added `RESOURCES` folder.
 - Banners / Desktop Wallpapers for Insurgent Lab & Gaming.
 - Square Logos for Insurgent Lab & Gaming.
 - Phone Wallpapers for Insurgent Lab & Gaming.
 
-[Unreleased]: https://github.com/olivierlacan/keep-a-changelog/compare/v1.0.0...HEAD
-[1.0.0]: https://github.com/olivierlacan/keep-a-changelog/releases/tag/v1.0.0
+[Unreleased]: https://github.com/insurgent-lab/insurgent-graphics/compare/v1.0.0...HEAD
+[1.0.0]: https://github.com/insurgent-lab/insurgent-graphics/releases/tag/v1.0.0
