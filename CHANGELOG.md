@@ -7,7 +7,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ## [Unreleased]
 - Added Twitch banner for Lab & Gaming.
 
-## [1.0.0] - xxxx-xx-xx
+## [1.0.0] - 2019-08-10
 ### Added
 - A `CHANGELOG` with a track of the version changes.
 - A `README` with a presentation of the main graphics.
