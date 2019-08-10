@@ -7,6 +7,7 @@
 | far | ![](https://github.com/insurgent-lab/insurgent-graphics/raw/master/LAB/PNG/BANNERS/logo_insurgent_lab_banner_far_3840x2160.png) | ![](https://github.com/insurgent-lab/insurgent-graphics/raw/master/GAMING/PNG/BANNERS/logo_insurgent_gaming_banner_far_3840x2160.png) |
 | medium | ![](https://github.com/insurgent-lab/insurgent-graphics/raw/master/LAB/PNG/BANNERS/logo_insurgent_lab_banner_medium_3840x2160.png) | ![](https://github.com/insurgent-lab/insurgent-graphics/raw/master/GAMING/PNG/BANNERS/logo_insurgent_gaming_banner_medium_3840x2160.png) |
 | zoom | ![](https://github.com/insurgent-lab/insurgent-graphics/raw/master/LAB/PNG/BANNERS/logo_insurgent_lab_banner_zoom_3840x2160.png) | ![](https://github.com/insurgent-lab/insurgent-graphics/raw/master/GAMING/PNG/BANNERS/logo_insurgent_gaming_banner_zoom_3840x2160.png) |
+| twitch | ![](https://github.com/insurgent-lab/insurgent-graphics/raw/master/LAB/PNG/BANNERS/logo_insurgent_gaming_banner_twitch_3840x1536.png) | ![](https://github.com/insurgent-lab/insurgent-graphics/raw/master/GAMING/PNG/BANNERS/logo_insurgent_gaming_banner_twitch_3840x1536.png) |
 
 
 ## Square Logos
